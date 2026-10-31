@@ -1,0 +1,9 @@
+.env
+cache.json
+todo.md
+todo_test.md
+.venv/
+__pycache__/
+dump/
+upload_me/
+fetch_state.json

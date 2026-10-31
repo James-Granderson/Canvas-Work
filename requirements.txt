@@ -1,0 +1,5 @@
+requests
+anthropic
+pypdf
+python-pptx
+python-docx
